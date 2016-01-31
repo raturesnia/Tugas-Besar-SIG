@@ -12,7 +12,7 @@ IMAGECOLOR	108 166 205
 	IMAGEPATH "C:\ms4w\Apache\htdocs\pg\tmp"
 	IMAGEURL "C:\ms4w\Apache\htdocs\pg\tmp"
   END
-LAYER.
+LAYER
 NAME 		"Provinsi".
 STATUS		ON.
 TYPE		POLYGON.

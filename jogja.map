@@ -7,7 +7,7 @@ UNITS 		meters.
 SIZE		300 600.
 IMAGECOLOR	108 166 205.
 
-  WEB
+  WEB.
 	TEMPLATE "jogja_map.html"
 	IMAGEPATH "C:\ms4w\Apache\htdocs\pg\tmp"
 	IMAGEURL "C:\ms4w\Apache\htdocs\pg\tmp"

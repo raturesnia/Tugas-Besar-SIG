@@ -13,7 +13,7 @@ IMAGECOLOR	108 166 205.
 	IMAGEURL "C:\ms4w\Apache\htdocs\pg\tmp".
   END.
 LAYER.
-NAME 		"Provinsi"
+NAME 		"Provinsi".
 STATUS		ON
 TYPE		POLYGON
 CONNECTIONTYPE POSTGIS

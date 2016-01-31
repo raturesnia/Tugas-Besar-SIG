@@ -21,7 +21,7 @@ CONNECTION "host=localhost dbname=jogja user=postgres password=08april".
 DATA "geom FROM admin_kecamatan USING UNIQUE gid".
 
 CLASS.
-NAME "Provinsi"
+NAME "Provinsi".
 COLOR 255 255 255
 OUTLINECOLOR 128 128 128
 END

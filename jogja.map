@@ -15,7 +15,7 @@ IMAGECOLOR	108 166 205
 
 LAYER
 NAME 		"Provinsi"
-STATUS		ON
+STATUS		ON.
 TYPE		POLYGON.
 CONNECTIONTYPE POSTGIS.
 CONNECTION "host=localhost dbname=jogja user=postgres password=08april"..
